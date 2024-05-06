@@ -1,6 +1,6 @@
 [[headers]]
   for = "/Daniel_Contact.vcf"
   [headers.values]
-    Content-Type = "text/x-vcard"
+    Content-Type = "text/vcard"
     Content-Disposition = "inline; filename=\"Daniel_Contact.vcf\""
     Cache-Control = "no-cache"
